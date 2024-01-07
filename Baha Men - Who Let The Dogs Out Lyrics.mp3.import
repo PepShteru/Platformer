@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Baha Men - Who Let The Dogs Out Lyrics.mp3-5097b0fa1c9ae9fb1274701386098784.mp3str"
+
+[deps]
+
+source_file="res://Baha Men - Who Let The Dogs Out Lyrics.mp3"
+dest_files=[ "res://.import/Baha Men - Who Let The Dogs Out Lyrics.mp3-5097b0fa1c9ae9fb1274701386098784.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

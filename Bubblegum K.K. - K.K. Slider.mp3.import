@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Bubblegum K.K. - K.K. Slider.mp3-0721422b3253647ceaa7e8159fb68b70.mp3str"
+
+[deps]
+
+source_file="res://Bubblegum K.K. - K.K. Slider.mp3"
+dest_files=[ "res://.import/Bubblegum K.K. - K.K. Slider.mp3-0721422b3253647ceaa7e8159fb68b70.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
